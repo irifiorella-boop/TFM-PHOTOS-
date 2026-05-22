@@ -1,2 +1,3 @@
 # TFM-PHOTOS-
 Emprendimiento que se dedica a la fotografía 
+https://docs.google.com/document/d/1ZJxNvAC0e-XfCg3kLBm399E1Tb1g422fYIppM1d23FY/edit?usp=sharing

@@ -1,1 +1,159 @@
-https://docs.google.com/document/d/1ZJxNvAC0e-XfCg3kLBm399E1Tb1g422fYIppM1d23FY/edit?tab=t.0
+WHITEPAPER — HACKATHON 2026
+TFM Photos — Professional Photography Studio
+“Capturing Moments, Creating Memories”
+ 
+Integrantes y Roles
+• Fiorella Espinel — Fotógrafa Principal
+• Tomás Ruiz — Director de Marketing
+• María Salgado — CEO y Directora Ejecutiva
+
+Tecnologías Utilizadas
+• Inteligencia Artificial (AI)
+• Blockchain
+• Firebase
+• Canva
+• Figma
+• HTML/CSS y JavaScript
+
+ODS Relacionado
+ODS 9 — Industria, Innovación e Infraestructura
+
+Ciudad y Año Lectivo
+Quito, Ecuador — 2026
+2. RESUMEN EJECUTIVO
+TFM Photos es una empresa de fotografía profesional que combina creatividad, inteligencia artificial y blockchain para ofrecer una experiencia moderna, segura y de alta calidad. Nuestro proyecto busca ayudar a emprendedores, estudiantes, influencers y pequeños negocios que necesitan contenido visual profesional para redes sociales, eventos y marcas personales.
+
+Utilizamos inteligencia artificial para optimizar la edición fotográfica, mejorar iluminación y acelerar procesos profesionales. Además, blockchain permite proteger los derechos de autor y verificar la autenticidad de las fotografías mediante certificados digitales únicos.
+
+TFM Photos busca modernizar la industria fotográfica mediante tecnología innovadora, diseño elegante y experiencias visuales profesionales.
+3. EL PROBLEMA
+Actualmente muchas personas utilizan filtros o aplicaciones simples para editar fotografías, pero esto no garantiza calidad profesional, buena iluminación ni una identidad visual sólida. Además, muchos fotógrafos y creadores digitales enfrentan problemas relacionados con robo de imágenes y falta de protección de derechos de autor.
+
+Las publicaciones con imágenes profesionales generan mayor interacción y confianza en redes sociales. Sin embargo, muchos servicios fotográficos tradicionales son costosos o poco modernos.
+
+Encuestas realizadas por el equipo:
+• 82% considera importantes las fotografías profesionales.
+• 76% desea entregas más rápidas.
+• 85% considera importante proteger imágenes digitales.
+• 79% afirma que una buena imagen mejora negocios y redes sociales.
+
+Las soluciones actuales no combinan fotografía profesional, AI y blockchain en un mismo servicio innovador.
+4. NUESTRA SOLUCIÓN
+TFM Photos ofrece sesiones fotográficas profesionales con edición avanzada mediante inteligencia artificial y protección digital usando blockchain.
+
+¿Cómo utilizaremos AI?
+La inteligencia artificial ayudará a mejorar iluminación, nitidez, colores y calidad visual de manera automática y profesional. También permitirá optimizar contenido para redes sociales y acelerar el proceso de edición.
+
+¿Cómo utilizaremos Blockchain?
+Cada sesión fotográfica tendrá certificados digitales únicos para demostrar autenticidad y propiedad de las imágenes. Esto ayudará a proteger derechos de autor y evitar robo o uso no autorizado de fotografías.
+
+¿Cómo impactamos el ODS?
+Nuestro proyecto se relaciona con el ODS 9 porque promueve innovación tecnológica en la industria creativa y genera oportunidades modernas para jóvenes emprendedores.
+
+Servicios:
+• Fotografía profesional
+• Fotografía para redes sociales
+• Cobertura de eventos
+• Fotografía de productos
+• Edición profesional AI
+• Entrega digital rápida
+• Certificados digitales blockchain
+
+Flujo del usuario:
+1. El cliente agenda una sesión.
+2. El equipo realiza la producción fotográfica.
+3. Las imágenes son editadas utilizando AI.
+4. Blockchain registra autenticidad y propiedad.
+5. El cliente recibe contenido visual profesional listo para utilizar.
+5. ARQUITECTURA TECNOLÓGICA
+Herramientas Tecnológicas:
+• Firebase
+• Canva
+• Figma
+• HTML/CSS
+• JavaScript
+
+Inteligencia Artificial:
+• Optimización automática de imágenes
+• Corrección de iluminación
+• Mejora de calidad visual
+• Organización inteligente de fotografías
+
+Blockchain:
+• Certificados digitales
+• Protección de derechos de autor
+• Verificación de autenticidad
+• Seguridad digital de contenido
+
+Base de Datos:
+Firebase almacenará usuarios, reservas, fotografías y galerías digitales.
+
+Funcionamiento Técnico:
+La información del cliente se almacena de manera segura en Firebase. Luego, las imágenes pasan por herramientas AI para optimizar calidad y finalmente blockchain registra autenticidad y propiedad digital.
+6. IMPACTO Y ODS
+ODS 9 — Industria, Innovación e Infraestructura
+
+TFM Photos impacta directamente este ODS porque utiliza tecnología moderna para transformar servicios tradicionales de fotografía. La combinación de AI y blockchain impulsa innovación digital, mejora la seguridad de contenido visual y genera nuevas oportunidades para jóvenes emprendedores dentro de la economía creativa.
+7. MODELO DE NEGOCIO
+TFM Photos generará ingresos mediante:
+• Sesiones fotográficas
+• Eventos
+• Planes premium
+• Edición AI avanzada
+• Colaboraciones con marcas
+
+Clientes potenciales:
+• Emprendedores
+• Influencers
+• Negocios pequeños
+• Estudiantes
+• Empresas
+
+Valor agregado:
+TFM Photos no solo utiliza filtros. Ofrecemos fotografía profesional real, edición avanzada con inteligencia artificial, protección blockchain y una experiencia personalizada de alta calidad.
+8. INVESTIGACIÓN DE MERCADO
+El mercado de contenido visual continúa creciendo gracias al aumento de redes sociales, marketing digital y comercio electrónico.
+
+Ventajas competitivas:
+• Integración de AI
+• Protección blockchain
+• Experiencia profesional
+• Imagen moderna y elegante
+• Entregas rápidas
+• Contenido optimizado para redes sociales
+
+Existe una gran oportunidad para modernizar la fotografía profesional mediante tecnología innovadora.
+9. DESARROLLO Y APRENDIZAJES
+Avances realizados:
+• Diseño de identidad visual
+• Investigación de mercado
+• Desarrollo del concepto
+• Planeación tecnológica
+• Organización del modelo de negocio
+
+Aprendizajes:
+• Trabajo colaborativo
+• Innovación tecnológica
+• Creatividad aplicada
+• Uso de herramientas digitales
+• Desarrollo de proyectos profesionales
+10. VALIDACIÓN CON USUARIOS
+El proyecto fue presentado a estudiantes y emprendedores para obtener opiniones y sugerencias.
+
+Resultados obtenidos:
+• La mayoría considera innovadora la idea.
+• Les interesa la protección blockchain.
+• Consideran útil la edición AI.
+• Les gusta el estilo moderno y profesional.
+
+Mejoras sugeridas:
+• Crear aplicación móvil
+• Añadir pagos digitales
+• Incorporar más funciones AI
+• Implementar sistema de reservas online
+REFERENCIAS
+• Naciones Unidas. Objetivos de Desarrollo Sostenible.
+• Statista — Digital Photography Market.
+• Firebase Documentation.
+• IBM Blockchain Technology.
+• HubSpot Marketing Statistics.
